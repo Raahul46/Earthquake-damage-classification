@@ -1,4 +1,4 @@
-![](https://github.com/Raahul46/Earthquake-damage-classification/blob/master/Images/source.gif)
+<align = "center">![](https://github.com/Raahul46/Earthquake-damage-classification/blob/master/Images/source.gif)
 <hr></hr>
 [![forthebadge made-with-python](https://github.com/Raahul46/Earthquake-damage-classification/blob/master/Images/python%20badge.svg)](https://www.python.org/)
 
