@@ -10,7 +10,7 @@ An earthquake is the shaking of the surface of the Earth, resulting from the sud
 # WORKFLOW
 1. Create a python environment.
 2. Run the requirements.txt file to install all the dependencies.
-3. Make sure all the Files are in the same folders.
+3. Make sure all the Files are in the same folders.(Unzip the DATASET.rar and place all the files in the same folder)
 4. The File "preprocessfinale11.py" is used for preprocessing the dataset.
 5. The File "model.py" has the random forest implementation.
 6. The pickle file "RF_model.sav" is the saved model of the implementation.
